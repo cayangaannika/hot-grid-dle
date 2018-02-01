@@ -46,4 +46,5 @@ figcaption {
   color: #fff;
   opacity: .6;
   border-radius: 6px;
+  max-width: 15em;
 }
